@@ -1,0 +1,60 @@
+body{
+	background-color: #333;
+}
+
+.bg{
+
+	background: url(../img/app_bg.jpg);
+	background-repeat: repeat-y;
+	background-repeat: repeat-x;
+	}
+
+.big{
+	background: url(../img/big.png) no-repeat;
+	position: relative;
+	top: 44px;
+	width: 264px;
+	height: 157px;
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	display: relative;
+	vertical-align: middle;
+	}
+
+
+.medium_box{
+
+	background: url(../img/medium.png) no-repeat;
+	width: 160px;
+	height: 73px;
+	padding-right: 7px;
+    padding-left: 7px;
+    margin-right: auto;
+	margin-left: auto;
+	display: relative;
+	vertical-align: middle;
+	position: relative;
+	top: 44px; left: -52px;
+}
+
+
+.small{
+
+	font-size: 18px;
+		
+
+}
+
+.lead{
+	font-size: 25px;
+	margin-bottom: 0px !important;
+}
+
+
+#zip{
+	margin-bottom: 20px;
+
+}
+	
